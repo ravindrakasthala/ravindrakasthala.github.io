@@ -16,5 +16,5 @@ function postToGoogle() {
     return false;
 }
 function downloadCV(){
-    location.replace("https://drive.google.com/u/0/uc?id=1CODWbEdnOBWfiSBsB8ZziGeNRwA4rZLW&export=download");
+    location.replace("https://drive.google.com/u/0/uc?id=1MMQ7gx-DBhFfDdqqYK19C4F9aj4lATgz&export=download");
 }
