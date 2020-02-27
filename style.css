@@ -339,6 +339,10 @@ footer{
     .about-me,.process,.projects,.more-projects{
         padding-top: 20px;
     }
+    .ux-ideation-img{
+        width: 100%;
+        padding: 20px 20px;
+    }
     .section-content{
         font-size: 12px;
     }
