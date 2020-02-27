@@ -277,6 +277,9 @@ footer{
     transform: translateY(-4px);
     transition: .2s ease-in;
 }
+#message{
+    width: 567px;
+}
 
 /* responsive */
 @media only screen and (max-width : 768px){
@@ -356,12 +359,18 @@ footer{
     }
     .case-study-btn{
         margin-top: 30px;
+        background-color: #f4b445;
+        color: #ffffff;
+        border: none;
     }
     .project-2,.project-3{
         margin-top: 40px;
     }
     .projects-header{
         padding: 30px 0px 10px 0px;
+    }
+    #message{
+        width: 260px;
     }
     .submit-btn{
         float: left;
