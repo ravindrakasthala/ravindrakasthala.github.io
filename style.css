@@ -334,7 +334,7 @@ footer{
         padding: 0px;
     }
     .home-page-text{
-        transform: translate(0px,50px);
+        transform: translate(0px,100px);
     }
     .about-me,.process,.projects,.more-projects{
         padding-top: 20px;
