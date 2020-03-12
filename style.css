@@ -73,6 +73,9 @@ a{
     background-color: #ffffff;
     margin-bottom: 50px;
 }
+#navbar{
+    transition: ease;
+}
 .fantasy-field,.fleet-management{
     width: 100%;
 }
