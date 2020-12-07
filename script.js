@@ -27,5 +27,5 @@ function postToGoogle() {
     return false;
 }
 function downloadCV(){
-    location.replace("https://drive.google.com/u/0/uc?id=1MMQ7gx-DBhFfDdqqYK19C4F9aj4lATgz&export=download");
+    location.replace("https://drive.google.com/u/0/uc?id=1rAysB8oFH2j0JIkFqjaHqepCv9vJppV3&export=download");
 }
